@@ -4,7 +4,8 @@ The LPD (Launcher Profile Dumper) is a util for minecraft which dumps every acco
 
 ## Installation
 
-Download the LPD.jar and add it as a library to your project.[Release](https://github.com/zyfer1337/Launcher-Profile-Dumper/releases)
+Download the LPD.jar and add it as a library to your project.
+[Release](https://github.com/zyfer1337/Launcher-Profile-Dumper/releases)
 
 Alternatively: download the ReadAccountFiles.java and create the package "me.zyfer1337" and put the java file into the created package.
 
